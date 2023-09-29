@@ -14,15 +14,15 @@ I am documenting this 3-month journey here on my Github account so that one day 
 4. React
 
 The journey has begun. My task list has one item already done:
-[x]Learning the Markup Language
-[x]HTML basics
-[x]CSS basics
-[]React
+1.[x]Learning the Markup Language
+2.[x]HTML basics
+3.[x]CSS basics
+4.[]React
 
 >[!NOTE]
 >This is only a trial blog post for several Markup Skills.
 
- “Learning HTML and CSS is a lot more challenging than it used to be. Responsive web design adds more layers of complexity to design and develop websites.”[^1].
-“Great web design without functionality is like a sports car with no engine.”[^2]
+1. “Learning HTML and CSS is a lot more challenging than it used to be. Responsive web design adds more layers of complexity to design and develop websites.”[^1].
+2.“Great web design without functionality is like a sports car with no engine.”[^2]
 
 ADIOS💙
